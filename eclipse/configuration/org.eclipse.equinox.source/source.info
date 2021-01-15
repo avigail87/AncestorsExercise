@@ -1,0 +1,6 @@
+#encoding=UTF-8
+#version=1
+com.beust.jcommander.source,1.66.0,plugins/com.beust.jcommander.source_1.66.0.jar,-1,false
+org.apache-extras.beanshell.bsh.source,2.0.0.b6,plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar,-1,false
+org.testng.source,6.12.0.r201709030044,plugins/org.testng.source_6.12.0.r201709030044.jar,-1,false
+org.yaml.snakeyaml.source,1.17.0,plugins/org.yaml.snakeyaml.source_1.17.0.jar,-1,false
